@@ -1,2 +1,2 @@
-# rn-weather
+# RN-Weather
 Learning React Native by Building a Weather App
